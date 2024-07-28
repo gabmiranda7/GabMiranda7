@@ -3,7 +3,7 @@
 - 🔭 Trabalho como Agente Administrativo de Saúde
 - 🤓 Estudando HTML, CSS, JavaScript e Python
 - 🌱 Cursando o 4º período de Sistemas de Informação na AEDB
-- 📫 Contato: gab.miranda7@protonmail.com
+- 📫 Contato: gab.miranda404@gmail.com
 - 😄 Pronouns: He/Him
 
 ![Gabriel Miranda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabmiranda7&show_icons=true&theme=dark&hide_title=true&hide=prs&count_private=true&include_all_commits=true&show_owner=true)
